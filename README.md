@@ -1,4 +1,5 @@
 # Sample RPG Kotlin client project
+Sample Kotlin project using [smeup-rpg](https://github.com/smeup/smeup-rpg) 
 
 This project was initially created with ```gradle init```
 
